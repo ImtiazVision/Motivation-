@@ -14,3 +14,5 @@ Purpose, mastery, and autonomy are three fundamental motivators for long-term ac
 **Mastery**, are people getting better at something that matters? Are they making progress in meaningful work? 
 
 **Autonomy**, do people have a say? Do they have some control over what they're doing, how they're doing it, who they're doing it with, where they're doing it, and when they're doing it?
+
+Purpose, mastery, and autonomy are powerful motivators because they are compatible with human nature, are more difficult to exhaust than if-then rewards, and lead to enduring performance
