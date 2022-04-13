@@ -1,0 +1,1 @@
+To build mastery in what we do, we must find a means to acquire feedback from others, and if that is not feasible, we must offer ourselves regular feedback.The most effective feedback is frequent and informal.
