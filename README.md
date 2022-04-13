@@ -1,5 +1,7 @@
 # Motivation-
 
+Making progress in important work is the single most powerful day-to-day motivation on the workplace.
+
 **Controlling contingent reward**, often known as if then rewards, is a fundamental principle about workplace motivation that we must all understand.
 
 
