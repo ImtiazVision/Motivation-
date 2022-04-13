@@ -1,0 +1,1 @@
+We must concentrate on why we are doing something rather than how we are doing it. Because individuals will be more driven if they understand why they are doing the activity in the first place and subsequently, it will increase the performance of a team.
