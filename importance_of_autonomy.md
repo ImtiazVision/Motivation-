@@ -24,4 +24,4 @@ We may ask our team members the four following questions to assess a company's a
 
 - How much control do we have over our work technique? How do you truly carry out the primary obligations of our job?
 
-This autonomy audit will open our eyes, spark a discussion, and help us to create a workplace where individuals can achieve their absolute best. When people enjoy times of complete autonomy, they do excellent work.
+This autonomy audit will open our eyes, spark a discussion, and help us to create a workplace where individuals can achieve their absolute best. When people enjoy times of complete autonomy, they do excellent work as autonomy is the route to creativity and invention. However, there must be a time constraint, such as 1 or 2 hours per week of autonomy in which members may pick which activities they will work on.
