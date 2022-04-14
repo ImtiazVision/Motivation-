@@ -9,7 +9,7 @@ If team members had the option to customize their occupations in ways that were 
 
 ### Work challenge vs fexibility (control) 
 
-When team members have a good mix of work challenge and control (flexibility), they will experience flow, a delightful state in which they will do things at the ideal pace while avoiding fatigue.
+When team members have a good mix of work challenge and control (decision latitude), they will experience flow, a delightful state in which they will do things at the ideal pace while avoiding fatigue.
 
 
 ### Autonomy audit 
