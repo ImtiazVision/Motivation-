@@ -16,10 +16,10 @@ When team members have a good mix of work challenge and control (flexibility), t
 
 We may ask our team members the four following questions to assess a company's autonomy matrix on a scale of one to 10: 
 
-- 1. How much control do we have over your job tasks? That is, our primary tasks and what we perform on a daily basis.  
+- How much control do we have over your job tasks? That is, our primary tasks and what we perform on a daily basis.  
 
-- 2. How much control do we have over your time at work now? That is, when we arrive, when we depart, and how we divide our time each day. 
+- How much control do we have over your time at work now? That is, when we arrive, when we depart, and how we divide our time each day. 
 
-- 3. How much control do we have over our work team? That is, how much control do we have over the individuals we work with and cooperate with? 
+- How much control do we have over our work team? That is, how much control do we have over the individuals we work with and cooperate with? 
 
--  4. How much control do we have over our work technique? How do you truly carry out the primary obligations of our job?
+- How much control do we have over our work technique? How do you truly carry out the primary obligations of our job?
