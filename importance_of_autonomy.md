@@ -24,4 +24,4 @@ We may ask our team members the four following questions to assess a company's a
 
 - How much control do we have over our work technique? How do you truly carry out the primary obligations of our job?
 
-This autonomy audit will open our eyes, spark a discussion, and help us to create a workplace where individuals can achieve their absolute best.
+This autonomy audit will open our eyes, spark a discussion, and help us to create a workplace where individuals can achieve their absolute best. When people enjoy times of complete autonomy, they do excellent work.
